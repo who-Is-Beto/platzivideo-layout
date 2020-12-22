@@ -1,0 +1,19 @@
+{
+  "name": "platzivideo-layout",
+  "version": "1.0.0",
+  "description": "A layout from the front dev course of platzi",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.26.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "whoIsBeo",
+  "license": "ISC"
+}
